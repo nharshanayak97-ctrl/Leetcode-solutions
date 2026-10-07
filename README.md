@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**Name:** Harsha n
+**Name:** Harsha N
 **Roll Number:** R25EJ038
 
 Personal LeetCode practice log — part of B25GE0101 portfolio.
